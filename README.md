@@ -1,2 +1,1 @@
-# Holding
 Peter Holding
